@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 import _ from "underscore";
 
+//prueba de git-github
+
 let mazo        = [];
 let ptsJugador  = 0
 let ptsPC       = 0
