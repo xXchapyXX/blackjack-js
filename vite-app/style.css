@@ -1,0 +1,28 @@
+html, body{
+  background-color: #a52a2a;
+  color: white;
+  margin: 0px;
+}
+
+.Titulo{
+  text-align: center;/*Posicion*/
+  background-color: #3c1f1f; /*Color del fondo*/
+  color: white;/*Color fuente*/
+  padding: 10px; /*Ancho fondo*/
+  font-size: 40px; /*Tamaño fuente*/
+  font-style: italic; /* Tipo de letra - Cursiva*/
+}
+
+.carta{
+  width: 150px;
+  position: relative;
+  left: 100px;
+  margin-left: -100px;
+}
+
+#cartas-jugador, #cartas-pc{
+  height: 220px;
+}
+
+
+
